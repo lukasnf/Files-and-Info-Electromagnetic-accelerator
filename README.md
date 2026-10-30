@@ -4,7 +4,7 @@ A closed-loop, multi-stage electromagnetic accelerator designed to continuously 
 
 # ⚠️ MANDATORY SAFETY PRECAUTIONS & WARNINGS
 
-> **DANGER: HIGH KINETIC ENERGY & HIGH VOLTAGE**  
+> **DANGER: HIGH CURRENT & HIGH SPEEDS**  
 > Operating this device involves significant electrical, kinetic, and fire hazards. Read and implement all safety requirements prior to assembly or testing.
 ---
 
