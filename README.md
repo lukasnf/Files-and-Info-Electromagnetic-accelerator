@@ -55,7 +55,9 @@ Because the projectile increases in speed with each completed lap, the pulse wid
 
 ## Prototype sequence (final model consists with 4 coils, cleaner rails etc.)
 
-https://github.com/user-attachments/assets/28a77b97-29de-4c45-8e6e-0c3a6de22c9b.mp4
-```text
+
+https://github.com/user-attachments/assets/adc6c682-6ed5-4e0a-9baa-952acc0d7a50.mp4
+
+
 
 
