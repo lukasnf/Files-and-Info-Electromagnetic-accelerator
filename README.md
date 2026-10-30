@@ -2,6 +2,10 @@
 
 A closed-loop, multi-stage electromagnetic accelerator designed to continuously circulate and accelerate a ferromagnetic projectile around a 3D-printed circular track using four sequentially pulsed coils and optical synchronization.
 
+# ⚠️ MANDATORY SAFETY PRECAUTIONS & WARNINGS
+
+> **DANGER: HIGH KINETIC ENERGY & HIGH VOLTAGE**  
+> Operating this device involves significant electrical, kinetic, and fire hazards. Read and implement all safety requirements prior to assembly or testing.
 ---
 
 ## 📌 Overview & Operating Principle
@@ -22,7 +26,7 @@ Unlike linear accelerators that fire a projectile once, this ring accelerator us
 * **Circular Track / Guide Segments:** Modular, curved 3D-printed guide rails that form a continuous circular loop with integrated sensor slots and bobbin mounts.
   * *Recommended Material:* PETG, ABS, or ASA (PLA is prone to softening under sustained coil heat and high friction).
   * *Infill:* 40%+ with at least 4 perimeter walls to withstand radial outward forces from circulating projectiles.
-* **Coil Bobbins (`coil_bobbin_x4.stl`):** Custom winding bobbins curved or seated tangentially to fit the circular track profile.
+* **Coil Bobbins (`spule_endgütlig.stl`):** Custom winding bobbins curved or seated tangentially to fit the circular track profile.
 
 ### 2. Electromagnetic Stages (4x)
 * **Windings:** Enameled copper magnet wire (typically 0.6 mm to 1.0 mm diameter).
