@@ -43,14 +43,14 @@ Unlike linear accelerators that fire a projectile once, this ring accelerator us
 
 Because the projectile increases in speed with each completed lap, the pulse width must adapt dynamically:
 
-
+```
        ┌─────────── [Coil 1 / Sensor 1] ───────────┐
        │                                           │
        ▼                                           ▲
  [Coil 4 / Sensor 4]                         [Coil 2 / Sensor 2]
        │                                           │
        └─────────── [Coil 3 / Sensor 3] ───────────┘
-
+```
 
 
 ## Prototype sequence (final model consists with 4 coils, cleaner rails etc.)
