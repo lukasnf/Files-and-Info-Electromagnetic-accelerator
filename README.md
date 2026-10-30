@@ -50,3 +50,13 @@ Because the projectile increases in speed with each completed lap, the pulse wid
  [Coil 4 / Sensor 4]                         [Coil 2 / Sensor 2]
        │                                           │
        └─────────── [Coil 3 / Sensor 3] ───────────┘
+
+
+
+## Prototype sequence (final model consists with 4 coils, cleaner rails etc.)
+
+
+https://github.com/user-attachments/assets/5ff2401e-d499-454b-91c3-8cf8fee2394b
+
+
+
